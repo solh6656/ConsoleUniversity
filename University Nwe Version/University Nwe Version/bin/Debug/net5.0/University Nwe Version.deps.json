@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "University Nwe Version/1.0.0": {
+        "runtime": {
+          "University Nwe Version.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "University Nwe Version/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

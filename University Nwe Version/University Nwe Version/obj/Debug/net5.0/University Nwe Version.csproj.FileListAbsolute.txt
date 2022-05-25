@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\University Nwe Version\University Nwe Version\bin\Debug\net5.0\University Nwe Version.exe
+C:\Users\User\source\repos\University Nwe Version\University Nwe Version\bin\Debug\net5.0\University Nwe Version.deps.json
+C:\Users\User\source\repos\University Nwe Version\University Nwe Version\bin\Debug\net5.0\University Nwe Version.runtimeconfig.json
+C:\Users\User\source\repos\University Nwe Version\University Nwe Version\bin\Debug\net5.0\University Nwe Version.runtimeconfig.dev.json
+C:\Users\User\source\repos\University Nwe Version\University Nwe Version\bin\Debug\net5.0\University Nwe Version.dll
+C:\Users\User\source\repos\University Nwe Version\University Nwe Version\bin\Debug\net5.0\ref\University Nwe Version.dll
+C:\Users\User\source\repos\University Nwe Version\University Nwe Version\bin\Debug\net5.0\University Nwe Version.pdb
+C:\Users\User\source\repos\University Nwe Version\University Nwe Version\obj\Debug\net5.0\University Nwe Version.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\University Nwe Version\University Nwe Version\obj\Debug\net5.0\University Nwe Version.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\University Nwe Version\University Nwe Version\obj\Debug\net5.0\University Nwe Version.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\University Nwe Version\University Nwe Version\obj\Debug\net5.0\University Nwe Version.AssemblyInfo.cs
+C:\Users\User\source\repos\University Nwe Version\University Nwe Version\obj\Debug\net5.0\University Nwe Version.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\University Nwe Version\University Nwe Version\obj\Debug\net5.0\University Nwe Version.dll
+C:\Users\User\source\repos\University Nwe Version\University Nwe Version\obj\Debug\net5.0\ref\University Nwe Version.dll
+C:\Users\User\source\repos\University Nwe Version\University Nwe Version\obj\Debug\net5.0\University Nwe Version.pdb
+C:\Users\User\source\repos\University Nwe Version\University Nwe Version\obj\Debug\net5.0\University Nwe Version.genruntimeconfig.cache
